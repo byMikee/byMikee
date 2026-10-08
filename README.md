@@ -3,7 +3,7 @@
 
 I specialize in mapping out complex business logic and designing secure, high-performing software systems. Using an AI-accelerated development workflow, I focus entirely on system architecture, database integrity, and translating strict operational requirements into scalable digital infrastructure.
 
-My core focus is on solving business bottlenecks—whether that means ensuring a factory's inventory system survives an internet outage or automating a corporate financial ledger.
+My core focus is on solving business bottleneck,whether that means ensuring a factory's inventory system survives an internet outage or automating a corporate financial ledger.
 
 ### What I Do
 - **Custom ERP & Internal Tools:** Architecting localized and cloud-based management systems with strict role-based access controls.
